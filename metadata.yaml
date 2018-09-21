@@ -1,0 +1,25 @@
+_repo: A-Short-History-of-Newnham-College-Cambridge_53909
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gardner, Alice
+    birthdate: 1854
+    deathdate: 1927
+    gutenberg_agent_id: '47614'
+    url: http://www.gutenberg.org/2009/agents/47614
+description: ''
+gutenberg_issued: '2017-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53909'
+  lccn: '21021565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Newnham College'
+- !lcc 'LF'
+- GITenberg
+title: A Short History of Newnham College, Cambridge
+url: http://www.gutenberg.org/ebooks/53909
